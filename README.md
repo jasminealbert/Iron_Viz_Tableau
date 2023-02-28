@@ -8,7 +8,7 @@
 
 ---
 ### Description
-To further understand Tableau, I entered a submission to the Iron Viz competition in 2022. I used data from [insert source] from kaggle to visualise the 2020 F1 season. This included various tables to show the standings and a graph to show the progression of points over time.
+To further understand Tableau, I entered a submission to the Iron Viz competition in 2022. I used data from [this dataset](https://www.kaggle.com/datasets/enesbeinci/formula-1-2019-2020-race-results) from kaggle to visualise the 2020 F1 season. This included various tables to show the standings and a graph to show the progression of points over time.
 
 [Back To The Top](#Iron-Viz-Tableau)
 ---
